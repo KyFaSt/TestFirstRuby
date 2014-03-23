@@ -1,0 +1,8 @@
+def simon_says
+
+
+	def echo(stext)
+		print stext
+	end
+
+end
